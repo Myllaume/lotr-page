@@ -1,0 +1,23 @@
+{
+  "name": "lotr-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myllaume/lotr-page.git"
+  },
+  "keywords": [
+    "pagedjs",
+    "11ty"
+  ],
+  "author": "Guillaume Brioudes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Myllaume/lotr-page/issues"
+  },
+  "homepage": "https://github.com/Myllaume/lotr-page#readme"
+}
